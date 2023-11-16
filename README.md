@@ -1,7 +1,3 @@
-Certainly! Here's a sample README file that you can use to describe your Simple Notepad application created with Python and Tkinter:
-
----
-
 # Simple Notepad Application
 
 This is a simple text editor application created using Python and Tkinter GUI library.
